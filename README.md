@@ -6,7 +6,7 @@ FreeCodeCamp algorithms course's resolution
 * Inventory Update :grey_question:
 * No Repeats Please :heavy_check_mark:
 * Pairwise :heavy_check_mark:
-* Implement Bubble Sort :grey_question:
+* Implement Bubble Sort :heavy_check_mark:
 * Implement Selection Sort :grey_question:
 * Implement Insertion Sort :grey_question:
 * Implement Quick Sort :grey_question:
