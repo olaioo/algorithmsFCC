@@ -1,5 +1,5 @@
 # algorithmsFCC
-FreeCodeCamp algorithm course's resolution
+FreeCodeCamp algorithms course's resolution
 
 * Introduction to the Coding Interview Algorithms :grey_question:
 * Find the Symmetric Difference :grey_question:
