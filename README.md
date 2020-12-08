@@ -8,7 +8,7 @@ FreeCodeCamp algorithms course's resolution
 * Pairwise :heavy_check_mark:
 * Implement Bubble Sort :heavy_check_mark:
 * Implement Selection Sort :heavy_check_mark:
-* Implement Insertion Sort :grey_question:
+* Implement Insertion Sort :heavy_check_mark:
 * Implement Quick Sort :grey_question:
 
 
