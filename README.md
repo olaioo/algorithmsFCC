@@ -9,6 +9,7 @@ FreeCodeCamp algorithms course's resolution
 * Implement Bubble Sort :heavy_check_mark:
 * Implement Selection Sort :heavy_check_mark:
 * Implement Insertion Sort :heavy_check_mark:
-* Implement Quick Sort :grey_question:
+* Implement Quick Sort :heavy_check_mark:
+* Implement Merge Sort :heavy_check_mark:
 
 
